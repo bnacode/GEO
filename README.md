@@ -1,0 +1,1 @@
+This script calculates and plots correlations between the concentrations of various stones in mixtures and the LA coefficient using Pearson and Spearman correlation coefficients. The goal is to understand how different stone compositions impact the output quality, particularly in geological and construction material contexts.
